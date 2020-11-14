@@ -2,6 +2,7 @@
 
 ## App Demo
 
+https://diablo3-jcdelrioe.netlify.app/
 User: SuperRambo#2613
 Region: EU
 
