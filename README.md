@@ -1,5 +1,10 @@
 # diablo3
 
+# App Demo
+
+User: SuperRambo#2613
+Region: EU
+
 ## Project setup
 ```
 npm install
