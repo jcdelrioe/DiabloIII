@@ -1,6 +1,6 @@
 # diablo3
 
-# App Demo
+## App Demo
 
 User: SuperRambo#2613
 Region: EU
