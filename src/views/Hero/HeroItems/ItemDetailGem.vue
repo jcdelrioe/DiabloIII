@@ -14,7 +14,7 @@ export default {
   computed: {
     gemUrl () {
       // Cambio de 'large' por 'small'
-      const host = 'http://media.blizzard.com/d3/icons/items/small/'
+      const host = 'https://media.blizzard.com/d3/icons/items/small/'
       return `${host}${this.gem.item.icon}.png`
     }
   }
